@@ -1,0 +1,2 @@
+M100,ahmed,Weekly, maher@gmail.com,0101112245,active
+M200,amr,Monthly, amr@gmail.com,0100234123,active
